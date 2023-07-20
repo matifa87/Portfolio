@@ -29,5 +29,12 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # Groups for knowledge gathering
 
-- [Testowanie oprogramowania] (https://www.facebook.com/groups/141683635854223)
-- 
+- Testowanie oprogramowania (https://www.facebook.com/groups/141683635854223)
+- Tester oprogramowania - wsparcie na starcie (https://www.facebook.com/groups/417833158717454)
+- Testowanie oprogramowania - wsparcie na starcie (https://www.facebook.com/groups/215557562210470)
+- Tester oprogramowania - jak nim zostać? (https://www.facebook.com/groups/531570473876610)
+- ISTQB - egzaminy, pytania, testy (https://www.facebook.com/groups/194288250951242)
+- Kurs Tester Manualny (https://www.facebook.com/groups/246926649684135)
+
+# Blogs read
+
