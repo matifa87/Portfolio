@@ -1,9 +1,9 @@
 # Portfolio
 Tester Portfolio
-#About me
+# About me
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
-#Tools
+# Tools
 - Jira
 - Testlink
 - Postman
