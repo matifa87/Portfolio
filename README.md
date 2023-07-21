@@ -22,6 +22,15 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 - None
 
+# Courses 
+- Zawód tester - testerzy.pl
+- Postman od podstaw - testowanie Rest API (Udemy)
+- SQL - język zapytań do bazy danych SQL ( Udemy)
+- Kurs Jira od podstaw (Udemy)
+- Bootcamp testerski - testowanie oprogramowania (Udemy)
+- Podstawy manualnego testowania oprogramowania (Udemy)
+- Praktyczny kurs testowania oprogramowania (Udemy)
+
 # Books
 
 - A.Roman, L.Stapp - Certyfikowany tester ISTQB - poziom podstawowy
@@ -44,5 +53,14 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # My test Documentation
 
-- Bugs reports
+- Bug Reports
+- Test Reports
+- Test Cases
+- Test Scenarios
 
+# My Projects
+
+
+# Future courses
+
+- Praktyka testowania dla początkujących testerów - testerzy.pl 
