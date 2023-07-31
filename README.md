@@ -72,7 +72,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # My quality report
 
-- Quality report for documentation - https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true
+- Quality report for documentation - https://drive.google.com/file/d/1NCP6BTNEBHVjsiXhZFpZophxIXnBuZ5E/view?usp=drive_link
   
 # My Projects
 
