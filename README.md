@@ -58,6 +58,22 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - Test Cases
 - Test Scenarios
 
+# My test case examples
+
+- Test cases for documentation - https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true
+
+# My bug reports
+
+- Bugs reported for documentation - https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link
+
+# Mytest scenario
+
+- Test scenario for documentation - https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true
+
+# My quality report
+
+- Quality report for documentation - https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true
+  
 # My Projects
 
 
