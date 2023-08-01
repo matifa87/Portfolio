@@ -65,6 +65,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 # My test case examples
 
 - **[Test cases for documentation](https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
+- **[Test cases for PWA Twitter](https://drive.google.com/file/d/1HyzE03Mkmo4mLfl_YXkxJ7Q-kbkB4uze/view?usp=drive_link)**
 
 # My bug reports
 
@@ -73,6 +74,10 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 # My test scenario
 
 - **[Test scenario for documentation](https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
+
+# My test report
+
+- **[Test report for PWA Twitter](https://drive.google.com/file/d/1QMxl2gbQyD6s4gEatPSHDn5_RNGyWuw2/view?usp=drive_link)**
 
 # My quality report
 
