@@ -64,7 +64,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # My bug reports
 
-- [Bugs reported for documentation](https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link)
+- **[Bugs reported for documentation](https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link)**
 
 # My test scenario
 
