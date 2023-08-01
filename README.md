@@ -61,7 +61,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 # My test case examples
 
 - **[Test cases for documentation](https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
-<script src='https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true'></script>
+<base target="_blank">
 # My bug reports
 
 - **[Bugs reported for documentation](https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link)**
