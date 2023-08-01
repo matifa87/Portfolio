@@ -60,6 +60,8 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # My test plan 
 
+- **[Test plan for PWA Twitter](https://drive.google.com/file/d/1Cqzn_8Jhn-2-bx8LyKwvEAbhFtSxZ613/view?usp=drive_link)**
+
 # My test case examples
 
 - **[Test cases for documentation](https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
