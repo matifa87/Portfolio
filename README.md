@@ -4,7 +4,7 @@
 -----
 :arrow_forward: [About me](#aboutme)
 
-### <a name="aboutme">About me</a>
+# <a name="aboutme">About me</a>
 
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
