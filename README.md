@@ -24,11 +24,11 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 
 # Courses 
 - **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
-- Postman od podstaw - testowanie Rest API (Udemy)
+- **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
 - SQL - język zapytań do bazy danych SQL ( Udemy)
-- Kurs Jira od podstaw (Udemy)
+- **[Kurs Jira od podstaw (Udemy)](https://www.udemy.com/certificate/UC-b8be6fcf-7aaa-43fc-83ff-933ba97f93d9/)**
 - Bootcamp testerski - testowanie oprogramowania (Udemy)
-- Podstawy manualnego testowania oprogramowania (Udemy)
+- **[Podstawy manualnego testowania oprogramowania (Udemy)](https://www.udemy.com/certificate/UC-cfddd341-ae42-4086-b479-61bcaa24a41d/)**
 - Praktyczny kurs testowania oprogramowania (Udemy)
 
 # Books
