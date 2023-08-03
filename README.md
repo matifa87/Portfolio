@@ -1,5 +1,7 @@
-# Portfolio
+# SOFTWARE TESTER PORTFOLIO 
 
+##### TABLE OF CONTENTS
+-----
 # About me
 
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
