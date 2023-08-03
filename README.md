@@ -2,6 +2,7 @@
 
 ##### TABLE OF CONTENTS
 -----
+:arrow_forward: [About me](#Aboutme)
 # About me
 
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
