@@ -2,8 +2,9 @@
 
 ##### TABLE OF CONTENTS
 -----
-:arrow_forward: [About me](#Aboutme)
-# About me
+:arrow_forward: [About me](#aboutme)
+
+## <a name="aboutme">About me</a>
 
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
