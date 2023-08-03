@@ -2,20 +2,21 @@
 
 ##### TABLE OF CONTENTS
 -----
-:arrow_forward: [About me](#aboutme)
+:arrow_forward: [About me](#aboutme) :arrow_forward: [Tools](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
+
+-----
 
 # <a name="aboutme">About me</a>
-
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
-# Tools
+# <a name="tools">Tools</a>
 
 - Jira
 - Testlink
 - Postman
 - Github
 
-# Tech skills
+# <a name="techskills">Tech skills</a>
 
 - SQL
 - DevTools
