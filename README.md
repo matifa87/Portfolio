@@ -23,7 +23,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - None
 
 # Courses 
-- Zawód tester - testerzy.pl
+- **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
 - Postman od podstaw - testowanie Rest API (Udemy)
 - SQL - język zapytań do bazy danych SQL ( Udemy)
 - Kurs Jira od podstaw (Udemy)
