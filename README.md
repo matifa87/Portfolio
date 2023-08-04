@@ -1,9 +1,12 @@
 # SOFTWARE TESTER PORTFOLIO 
 
 ##### TABLE OF CONTENTS
+
 -----
+
 :arrow_forward: [ABOUT ME](#aboutme) :arrow_forward: [TOOLS](#tools) :arrow_forward: [TECH SKILLS](#techskills) :arrow_forward: [CERTIFICATES](#certificates) :arrow_forward: [COURSES](#courses) 
 :arrow_forward: [BOOKS](#books) :arrow_forward: [GROUPS FOR KNOWLEDGE GATHERING](#groupsforknowledgegathering) :arrow_forward: [BLOGS READ](#blogsread) :arrow_forward: [MY TEST DOCUMENTATION](#mytestDocumentation) :arrow_forward: [MY TEST PLAN](#mytestplan) :arrow_forward: [MY TEST CASE EXAMPLES](#mytestcaseexamples) :arrow_forward: [MY BUG REPORT](#mybugreports) :arrow_forward: [MY TEST SCENARIO](#mytestscenario) :arrow_forward: [MY TEST REPORT](#mytestreport) :arrow_forward: [MY QUALITY REPORT](#myqualityreport) :arrow_forward: [MY PROJECTS](#myprojects) :arrow_forward: [FUTURE COURSES](#futurecourses) 
+
 -----
 
 # <a name="aboutme">About me</a>
