@@ -2,7 +2,7 @@
 
 ##### TABLE OF CONTENTS
 -----
-:arrow_forward: [About me](#aboutme) :arrow_forward: [Tools](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
+:arrow_forward: [ABOUT ME](#aboutme) :arrow_forward: [TOOLS](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
 :arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#groupsforknowledgegathering) :arrow_forward: [Blogs read](#blogsread) :arrow_forward: [My test Documentation](#mytestDocumentation) :arrow_forward: [My test plan](#mytestplan) :arrow_forward: [My test case examples](#mytestcaseexamples) :arrow_forward: [My bug reports](#mybugreports) :arrow_forward: [My test scenario](#mytestscenario) :arrow_forward: [My test report](#mytestreport) :arrow_forward: [My quality report](#myqualityreport) :arrow_forward: [My projects](#myprojects) :arrow_forward: [Future courses](#futurecourses) 
 -----
 
