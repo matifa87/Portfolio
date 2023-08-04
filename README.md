@@ -23,11 +23,11 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - Software testing
 - Reporting bugs
 
-# Certificates
+# <a name="certificates">Certificates</a>
 
 - None
 
-# Courses 
+# <a name="courses">Courses</a>
 - **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
 - **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
 - SQL - język zapytań do bazy danych SQL ( Udemy)
@@ -36,12 +36,12 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - **[Podstawy manualnego testowania oprogramowania (Udemy)](https://www.udemy.com/certificate/UC-cfddd341-ae42-4086-b479-61bcaa24a41d/)**
 - Praktyczny kurs testowania oprogramowania (Udemy)
 
-# Books
+# <a name="books">Books</a>
 
 - A.Roman, L.Stapp - Certyfikowany tester ISTQB - poziom podstawowy
 - R.Smilgin - Zawód tester
 
-# Groups for knowledge gathering
+# <a name="Groupsforknowledgegathering">Groups for knowledge gathering</a>
 
 - **[Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)**
 - **[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)**
