@@ -2,8 +2,8 @@
 
 ##### TABLE OF CONTENTS
 -----
-:arrow_forward: [ABOUT ME](#aboutme) :arrow_forward: [TOOLS](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
-:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#groupsforknowledgegathering) :arrow_forward: [Blogs read](#blogsread) :arrow_forward: [My test Documentation](#mytestDocumentation) :arrow_forward: [My test plan](#mytestplan) :arrow_forward: [My test case examples](#mytestcaseexamples) :arrow_forward: [My bug reports](#mybugreports) :arrow_forward: [My test scenario](#mytestscenario) :arrow_forward: [My test report](#mytestreport) :arrow_forward: [My quality report](#myqualityreport) :arrow_forward: [My projects](#myprojects) :arrow_forward: [Future courses](#futurecourses) 
+:arrow_forward: [ABOUT ME](#aboutme) :arrow_forward: [TOOLS](#tools) :arrow_forward: [TECH SKILLS](#techskills) :arrow_forward: [CERTIFICATES](#certificates) :arrow_forward: [COURSES](#courses) 
+:arrow_forward: [BOOKS](#books) :arrow_forward: [GROUPS FOR KNOWLEDGE GATHERING](#groupsforknowledgegathering) :arrow_forward: [BLOGS READ](#blogsread) :arrow_forward: [MY TEST DOCUMENTATION](#mytestDocumentation) :arrow_forward: [MY TEST PLAN](#mytestplan) :arrow_forward: [MY TEST CASE EXAMPLES](#mytestcaseexamples) :arrow_forward: [MY BUG REPORT](#mybugreports) :arrow_forward: [MY TEST SCENARIO](#mytestscenario) :arrow_forward: [MY TEST REPORT](#mytestreport) :arrow_forward: [MY QUALITY REPORT](#myqualityreport) :arrow_forward: [MY PROJECTS](#myprojects) :arrow_forward: [FUTURE COURSES](#futurecourses) 
 -----
 
 # <a name="aboutme">About me</a>
