@@ -3,7 +3,7 @@
 ##### TABLE OF CONTENTS
 -----
 :arrow_forward: [About me](#aboutme) :arrow_forward: [Tools](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
-:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#Groupsforknowledgegathering) :arrow_forward: [Blogs read](#Blogsread) :arrow_forward: [My test Documentation](#MytestDocumentation) 
+:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#Groupsforknowledgegathering) :arrow_forward: [Blogs read](#Blogsread) :arrow_forward: [My test Documentation](#MytestDocumentation) :arrow_forward: [My test plan](#My test plan) :arrow_forward: [Books](#books) :arrow_forward: [Books](#books) :arrow_forward: [Books](#books)
 -----
 
 # <a name="aboutme">About me</a>
