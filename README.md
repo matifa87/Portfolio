@@ -3,7 +3,7 @@
 ##### TABLE OF CONTENTS
 -----
 :arrow_forward: [About me](#aboutme) :arrow_forward: [Tools](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
-:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#groupsforknowledgegathering) :arrow_forward: [Blogs read](#Blogsread) :arrow_forward: [My test Documentation](#MytestDocumentation) :arrow_forward: [My test plan](#Mytestplan) :arrow_forward: [My test case examples](#Mytestcaseexamples) :arrow_forward: [My bug reports](#Mybugreports) :arrow_forward: [My test scenario](#Mytestscenario) :arrow_forward: [My test report](#Mytestreport) :arrow_forward: [My quality report](#Myqualityreport) :arrow_forward: [My Projects](#MyProjects) :arrow_forward: [Future courses](#Futurecourses) 
+:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#groupsforknowledgegathering) :arrow_forward: [Blogs read](#blogsread) :arrow_forward: [My test Documentation](#mytestDocumentation) :arrow_forward: [My test plan](#mytestplan) :arrow_forward: [My test case examples](#mytestcaseexamples) :arrow_forward: [My bug reports](#mybugreports) :arrow_forward: [My test scenario](#mytestscenario) :arrow_forward: [My test report](#mytestreport) :arrow_forward: [My quality report](#myqualityreport) :arrow_forward: [My Projects](#myProjects) :arrow_forward: [Future courses](#futurecourses) 
 -----
 
 # <a name="aboutme">About me</a>
@@ -50,47 +50,47 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - **[ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)**
 - **[Kurs Tester Manualny](https://www.facebook.com/groups/246926649684135)**
 
-# Blogs read
+# <a name="blogsread">Blogs read</a>
 
 - testerzy.pl
 - testuj.pl
 - remigiuszbednarczyk.pl
 
-# My test Documentation
+# <a name="mytestdocumentation">My test Documentation</a>
 
 - Bug Reports
 - Test Reports
 - Test Cases
 - Test Scenarios
 
-# My test plan 
+# <a name="mytestplan">My test plan</a>
 
 - **[Test plan for PWA Twitter](https://drive.google.com/file/d/1Cqzn_8Jhn-2-bx8LyKwvEAbhFtSxZ613/view?usp=drive_link)**
 
-# My test case examples
+# <a name="mytestcaseexamples">My test case examples</a>
 
 - **[Test cases for documentation](https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
 - **[Test cases for PWA Twitter](https://drive.google.com/file/d/1HyzE03Mkmo4mLfl_YXkxJ7Q-kbkB4uze/view?usp=drive_link)**
 
-# My bug reports
+# <a name="mybugreports">My bug reports</a>
 
 - **[Bugs reported for documentation](https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link)**
 
-# My test scenario
+# <a name="mytestscenario">My test scenario</a>
 
 - **[Test scenario for documentation](https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
 
-# My test report
+# <a name="mytestreport">My test report</a>
 
 - **[Test report for PWA Twitter](https://drive.google.com/file/d/1QMxl2gbQyD6s4gEatPSHDn5_RNGyWuw2/view?usp=drive_link)**
 
-# My quality report
+# <a name="myqualityreport">My quality report</a>
 
 - **[Quality report for documentation](https://drive.google.com/file/d/1NCP6BTNEBHVjsiXhZFpZophxIXnBuZ5E/view?usp=drive_link)**
   
-# My Projects
+# <a name="myprojects">My projects</a>
 
 
-# Future courses
+# <a name="futurecourses">Future courses</a>
 
 - Praktyka testowania dla początkujących testerów - testerzy.pl 
