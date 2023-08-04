@@ -3,7 +3,7 @@
 ##### TABLE OF CONTENTS
 -----
 :arrow_forward: [About me](#aboutme) :arrow_forward: [Tools](#tools) :arrow_forward: [Tech skills](#techskills) :arrow_forward: [Certificates](#certificates) :arrow_forward: [Courses](#courses) 
-:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#Groupsforknowledgegathering) :arrow_forward: [Blogs read](#Blogsread) :arrow_forward: [My test Documentation](#MytestDocumentation) :arrow_forward: [My test plan](#Mytestplan) :arrow_forward: [My test case examples](#Mytestcaseexamples) :arrow_forward: [My bug reports](#Mybugreports) :arrow_forward: [My test scenario](#Mytestscenario) :arrow_forward: [My test report](#Mytestreport) :arrow_forward: [My quality report](#Myqualityreport) :arrow_forward: [My Projects](#MyProjects) :arrow_forward: [Future courses](#Futurecourses) 
+:arrow_forward: [Books](#books) :arrow_forward: [Groups for knowledge gathering](#groupsforknowledgegathering) :arrow_forward: [Blogs read](#Blogsread) :arrow_forward: [My test Documentation](#MytestDocumentation) :arrow_forward: [My test plan](#Mytestplan) :arrow_forward: [My test case examples](#Mytestcaseexamples) :arrow_forward: [My bug reports](#Mybugreports) :arrow_forward: [My test scenario](#Mytestscenario) :arrow_forward: [My test report](#Mytestreport) :arrow_forward: [My quality report](#Myqualityreport) :arrow_forward: [My Projects](#MyProjects) :arrow_forward: [Future courses](#Futurecourses) 
 -----
 
 # <a name="aboutme">About me</a>
@@ -41,7 +41,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - A.Roman, L.Stapp - Certyfikowany tester ISTQB - poziom podstawowy
 - R.Smilgin - Zawód tester
 
-# <a name="Groupsforknowledgegathering">Groups for knowledge gathering</a>
+# <a name="groupsforknowledgegathering">Groups for knowledge gathering</a>
 
 - **[Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)**
 - **[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)**
