@@ -9,28 +9,28 @@
 
 -----
 
-# <a name="aboutme">ABOUT ME</a>
+## <a name="aboutme">ABOUT ME</a>
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
-# <a name="tools">TOOLS</a>
+## <a name="tools">TOOLS</a>
 
 - Jira
 - Testlink
 - Postman
 - Github
 
-# <a name="techskills">TECH SKILLS</a>
+## <a name="techskills">TECH SKILLS</a>
 
 - SQL
 - DevTools
 - Software testing
 - Reporting bugs
 
-# <a name="certificates">Certificates</a>
+## <a name="certificates">CERTIFICATES</a>
 
 - None
 
-# <a name="courses">Courses</a>
+## <a name="courses">COURSES</a>
 - **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
 - **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
 - SQL - język zapytań do bazy danych SQL ( Udemy)
