@@ -11,6 +11,7 @@
 
 ## <a name="aboutme">ABOUT ME</a>
 <p align="justify">My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.</p>
+
 <p align="justify">In the near future, I want to become a manual tester</p>
 
 ## <a name="tools">TOOLS</a>
