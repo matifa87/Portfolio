@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px"><b>SOFTWARE TESTER PORTFOLIO</b></p>
+<p align="center" style="font-size: 40px"><b>SOFTWARE TESTER PORTFOLIO</b></p>
 
 ##### TABLE OF CONTENTS
 
