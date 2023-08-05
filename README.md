@@ -16,7 +16,7 @@
 
 -----
 
-### <p align="center"><a href="www.linkedin.com/in/mateusz-faraś-284240227" target="_blank">☑️ For more details click here <b>LinkedIn</b></a></p>
+### <p align="center"><a href="https://www.linkedin.com/in/mateusz-faraś-284240227" target="_blank">☑️For more details click here <b>LinkedIn</b></a></p>
 
 -----
 ## <a name="tools">TOOLS</a>
