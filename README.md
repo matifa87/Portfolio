@@ -9,17 +9,17 @@
 
 -----
 
-# <a name="aboutme">About me</a>
+# <a name="aboutme">ABOUT ME</a>
 My name is Mateusz Faras. Currently, I am intensively expanding my knowledge towards manual testing.
 
-# <a name="tools">Tools</a>
+# <a name="tools">TOOLS</a>
 
 - Jira
 - Testlink
 - Postman
 - Github
 
-# <a name="techskills">Tech skills</a>
+# <a name="techskills">TECH SKILLS</a>
 
 - SQL
 - DevTools
