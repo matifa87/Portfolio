@@ -1,4 +1,4 @@
-                                     # SOFTWARE TESTER PORTFOLIO 
+<p align="center"> SOFTWARE TESTER PORTFOLIO </p>
 
 ##### TABLE OF CONTENTS
 
