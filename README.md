@@ -31,6 +31,7 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - None
 
 ## <a name="courses">COURSES</a>
+
 - **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
 - **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
 - SQL - język zapytań do bazy danych SQL ( Udemy)
@@ -39,12 +40,12 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - **[Podstawy manualnego testowania oprogramowania (Udemy)](https://www.udemy.com/certificate/UC-cfddd341-ae42-4086-b479-61bcaa24a41d/)**
 - Praktyczny kurs testowania oprogramowania (Udemy)
 
-# <a name="books">Books</a>
+## <a name="books">BOOKS</a>
 
 - A.Roman, L.Stapp - Certyfikowany tester ISTQB - poziom podstawowy
 - R.Smilgin - Zawód tester
 
-# <a name="groupsforknowledgegathering">Groups for knowledge gathering</a>
+## <a name="groupsforknowledgegathering">GROUPS FOR KNOWLEDGE GATHERING</a>
 
 - **[Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)**
 - **[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)**
@@ -53,47 +54,47 @@ My name is Mateusz Faras. Currently, I am intensively expanding my knowledge tow
 - **[ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)**
 - **[Kurs Tester Manualny](https://www.facebook.com/groups/246926649684135)**
 
-# <a name="blogsread">Blogs read</a>
+## <a name="blogsread">BLOGS READ</a>
 
 - testerzy.pl
 - testuj.pl
 - remigiuszbednarczyk.pl
 
-# <a name="mytestdocumentation">My test Documentation</a>
+## <a name="mytestdocumentation">MY TEST DOCUMENTATION</a>
 
 - Bug Reports
 - Test Reports
 - Test Cases
 - Test Scenarios
 
-# <a name="mytestplan">My test plan</a>
+## <a name="mytestplan">MY TEST PLAN</a>
 
 - **[Test plan for PWA Twitter](https://drive.google.com/file/d/1Cqzn_8Jhn-2-bx8LyKwvEAbhFtSxZ613/view?usp=drive_link)**
 
-# <a name="mytestcaseexamples">My test case examples</a>
+## <a name="mytestcaseexamples">MY TEST CASE EXAMPLES</a>
 
 - **[Test cases for documentation](https://docs.google.com/spreadsheets/d/1c8bvixIfDQ3QzkO3gHKFdwh4C_mGfcEf/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
 - **[Test cases for PWA Twitter](https://drive.google.com/file/d/1HyzE03Mkmo4mLfl_YXkxJ7Q-kbkB4uze/view?usp=drive_link)**
 
-# <a name="mybugreports">My bug reports</a>
+## <a name="mybugreports">MY BUG REPORTS</a>
 
 - **[Bugs reported for documentation](https://drive.google.com/file/d/1xVMDtHAPEn4MsqmyyUIECoaUH7ssvzxr/view?usp=drive_link)**
 
-# <a name="mytestscenario">My test scenario</a>
+## <a name="mytestscenario">MY TEST SCENARIO</a>
 
 - **[Test scenario for documentation](https://docs.google.com/spreadsheets/d/1aq9b3Hl9GGcLVyvz0pthd9xok_4FdLjZ/edit?usp=drive_link&ouid=117004017568442638426&rtpof=true&sd=true)**
 
-# <a name="mytestreport">My test report</a>
+## <a name="mytestreport">MY TEST REPORT</a>
 
 - **[Test report for PWA Twitter](https://drive.google.com/file/d/1QMxl2gbQyD6s4gEatPSHDn5_RNGyWuw2/view?usp=drive_link)**
 
-# <a name="myqualityreport">My quality report</a>
+## <a name="myqualityreport">MY QUALITY REPORT</a>
 
 - **[Quality report for documentation](https://drive.google.com/file/d/1NCP6BTNEBHVjsiXhZFpZophxIXnBuZ5E/view?usp=drive_link)**
   
-# <a name="myprojects">My projects</a>
+## <a name="myprojects">MY PROJECTS</a>
 
 
-# <a name="futurecourses">Future courses</a>
+## <a name="futurecourses">FUTURE COURSES</a>
 
 - Praktyka testowania dla początkujących testerów - testerzy.pl 
