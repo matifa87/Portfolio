@@ -25,7 +25,7 @@
 -----
 ## <a name="tools">TOOLS</a>
 
-*:eight_spoked_asterisk:* Jira
+#:eight_spoked_asterisk:# Jira
 
 :eight_spoked_asterisk: Testlink
 
