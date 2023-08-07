@@ -20,7 +20,7 @@
 
 -----
 
-### <p align="center"><a href="https://drive.google.com/file/d/15qNBUDC1p08m6fahlgEO702M44S4gevD/view?usp=drive_link" target="_blank">My CV click here <b>CV</b></a></p>
+### <p align="center"><a href="https://drive.google.com/file/d/15qNBUDC1p08m6fahlgEO702M44S4gevD/view?usp=drive_link" target="_blank">My CV click here </a></p>
 
 -----
 ## <a name="tools">TOOLS</a>
