@@ -19,7 +19,9 @@
 ### <p align="center"><a href="https://www.linkedin.com/in/mateusz-faraś-284240227" target="_blank">☑️For more details click here <b>LinkedIn</b></a></p>
 
 -----
-### <p align="center"><a href="https://drive.google.com/file/d/15qNBUDC1p08m6fahlgEO702M44S4gevD/view?usp=drive_link target="_blank">My CV click here <b>CV</b></a></p>
+
+### <p align="center"><a href="https://drive.google.com/file/d/15qNBUDC1p08m6fahlgEO702M44S4gevD/view?usp=drive_link" target="_blank">My CV click here <b>CV</b></a></p>
+
 -----
 ## <a name="tools">TOOLS</a>
 
