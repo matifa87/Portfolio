@@ -25,7 +25,7 @@
 -----
 ## <a name="tools">TOOLS</a>
 
-- Jira
+- :eight_spoked_asterisk: Jira
 - Testlink
 - Postman
 - Github
