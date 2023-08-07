@@ -25,10 +25,13 @@
 -----
 ## <a name="tools">TOOLS</a>
 
- :eight_spoked_asterisk: Jira
- :eight_spoked_asterisk: Testlink
- :eight_spoked_asterisk: Postman
- :eight_spoked_asterisk: Github
+:eight_spoked_asterisk: Jira
+
+:eight_spoked_asterisk: Testlink
+
+:eight_spoked_asterisk: Postman
+
+:eight_spoked_asterisk: Github
 
 ## <a name="techskills">TECH SKILLS</a>
 
