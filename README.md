@@ -46,7 +46,7 @@
 
 ## <a name="courses">COURSES</a>
 
-- **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/pl/9305)**
+- **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/en/9305)**
 - **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
 - **[SQL - język zapytań do bazy danych SQL ( Udemy)](https://www.udemy.com/certificate/UC-e84a1661-8ff0-422d-b6b3-3c506a3216c8/)**
 - **[Kurs Jira od podstaw (Udemy)](https://www.udemy.com/certificate/UC-b8be6fcf-7aaa-43fc-83ff-933ba97f93d9/)**
