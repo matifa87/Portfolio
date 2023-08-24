@@ -40,11 +40,7 @@
 - Software testing
 - Reporting bugs
 
-## <a name="certificates">CERTIFICATES</a>
-
-- None
-
-## <a name="courses">COURSES</a>
+## <a name="courses">COURSES AND CERTIFICATES</a>
 
 - **[Zawód tester - testerzy.pl](http://edu.ittraining.pl/pokaz_dyplom/en/9305)**
 - **[Postman od podstaw - testowanie Rest API (Udemy)](https://www.udemy.com/certificate/UC-6f725ab1-90b6-45e5-a6d9-32317edb1e76/)**
